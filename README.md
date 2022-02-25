@@ -170,6 +170,101 @@
   ![final result](https://user-images.githubusercontent.com/88179607/145203981-d63ae029-fdad-41ba-a19a-7fc5ac0dca75.jpg)
 </details>
 
-
-
+## Assignment 27
+<details>
+  <summary>Click to expand!</summary>
   
+  ### 1- findContours Function
+  - Implement the cv2.findContours(image, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_NONE) function from scratch
+     - Input
+       > ![input](https://user-images.githubusercontent.com/88179607/147597505-210de269-6874-40d9-be77-ffccaeba43ba.png)
+     - Output
+       > ![output](https://user-images.githubusercontent.com/88179607/147597573-1dbd1acc-74f5-44a2-bf53-03a52cdb353a.png)
+  ### 2- Dice value detection
+  Dice value detection using OpenCv
+</details>
+
+## Assignment 28
+<details>
+  <summary>Click to expand!</summary>
+  
+  # Sudoku Detector
+  These programs will process the image and video and then find and crop Sudoku from it\
+  ✅ sudoku_detector.ipynb\
+  ✅ sudoku_detector.py\
+  ✅ sudoku_detector_video.py\
+  For execute the code open the code's path in your terminal and run this code:
+  ```shell
+  python sudoku_detector.py --input [your path.jpg] --output [your path.jpg] --filter-size [your filter size]
+  ```
+
+  Example:
+  ```shell
+  python sudoku_detector.py --input input\sudoku1.jpg --output output\sudoku1.jpg --filter-size 7
+  ```
+
+  #### Screen Shots
+  ##### 1-
+  ###### Input
+  ![sudoku1](https://user-images.githubusercontent.com/88179607/147386547-65900f60-dbfa-4a71-8142-f0ab843f5218.jpg)
+  ###### Output
+  ![sudoku1](https://user-images.githubusercontent.com/88179607/147386551-3044c502-c2e4-444b-a423-192a43d269ce.jpg)
+  ##### 2-
+  #### Input
+  ![sudoku2](https://user-images.githubusercontent.com/88179607/147386554-f27c510e-65e2-4c07-97ad-0fa02b54b90c.jpg)
+  ###### Output
+  ![sudoku2](https://user-images.githubusercontent.com/88179607/147386559-87d0b63f-5cdb-4e48-be67-c793e501d7f9.jpg)
+  ##### 3-
+  ###### Input
+  ![sudoku3](https://user-images.githubusercontent.com/88179607/147386557-ba7767b0-b3b1-4531-a398-3467683c4b3d.png)
+  ###### Output
+  ![sudoku3](https://user-images.githubusercontent.com/88179607/147386562-86035d40-c13e-4365-ac13-4bc2986925bf.jpg)
+  ### 2- Time Warp Scan Filter Effect
+  Time Warp Scan filter effect from TikTok written in Python using OpenCv
+</details>
+
+## Assignment 29
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### 1- Green carrot
+  #### Turn the carrots green
+  - Input
+    > ![input](https://user-images.githubusercontent.com/88179607/147852575-3246929b-7c9b-479f-ab9d-f5ca3049aff2.png)
+  - Output
+    > ![output](https://user-images.githubusercontent.com/88179607/147852578-273b6515-4a63-49fa-9824-24b7763777c7.png)
+  ### 2- Microsoft Logo
+  - Output
+  > ![result](https://user-images.githubusercontent.com/88179607/147852603-bd743e04-f85b-46f2-a727-7cf4142f4148.jpg)
+  ### 3- Rubik
+  #### Solve the Rubik's Cube.
+  - Input
+  >![input](https://user-images.githubusercontent.com/88179607/147852700-08f85c45-3193-4f3c-81e7-36d8ecdb069a.png)
+  - Output
+  > ![output](https://user-images.githubusercontent.com/88179607/147852705-524a90bf-a90b-4257-a8ec-6d9030bec2e6.png)
+  ### 4- RGB color detection (webcam)
+  RGB color detection (webcam)
+  ### 5- Color Picker
+  ![Screenshot (139)](https://user-images.githubusercontent.com/88179607/147852762-0a22e644-28ad-41dd-bc57-85faa4cdf5d7.png)
+</details>
+
+## Assignment 30
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### 1- Blue Screen Technique
+  - Inputs
+  >![SuperMan](https://user-images.githubusercontent.com/88179607/148280179-e6fde743-fd7d-46d2-a9c7-d0203f5496cb.jpg) ![sky](https://user-images.githubusercontent.com/88179607/148280264-c2112b87-9d1b-406c-9ce4-aae927a2f7fa.jpg)
+  - Output
+  > ![output](https://user-images.githubusercontent.com/88179607/148280384-32d299ba-e41b-422b-a56f-878ae073f275.jpg)
+  ### 2- Skin Detection
+  #### main.py
+  Skin Detection using OpenCv and HSV color ranges
+  - Input
+  >![1](https://user-images.githubusercontent.com/88179607/148280861-4292055a-367a-431b-932c-a5ee6e1df542.png)
+  - Output
+  >![2](https://user-images.githubusercontent.com/88179607/148280903-dff8fc2d-405c-48d2-babd-935430bc0294.png)
+  #### main_webcam.py
+  - Result
+  > https://user-images.githubusercontent.com/88179607/148281349-af106590-9f6c-4284-9449-8b340c3d00a6.mp4
+</details>
